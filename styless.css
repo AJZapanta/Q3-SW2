@@ -1,0 +1,16 @@
+h1{
+	color: lightblue;
+}
+
+table {
+	border: 1px solid black;
+}
+
+td {
+	border: 1px solid black;
+}
+
+img {
+	width: 50%;
+	height: 50%;
+}
