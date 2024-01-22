@@ -1,5 +1,11 @@
 h1{
 	color: lightblue;
+	text-align: center;
+}
+
+body{
+	background-size: cover;
+	background-image: url("https://deih43ym53wif.cloudfront.net/shutterstock_329793749-lower-res_fcb9278bd1.jpeg");
 }
 
 table {
@@ -7,10 +13,10 @@ table {
 }
 
 td {
+	width: 33%;
 	border: 1px solid black;
 }
 
 img {
 	width: 50%;
-	height: 50%;
 }
